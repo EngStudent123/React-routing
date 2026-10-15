@@ -1,0 +1,7 @@
+{
+    "instagramUsers" :[
+        { "username" : "pooja" , "password" : "pooja@12" , "mobile":1122 } ,
+         { "username" : "vish" , "password" : "vish@12" , "mobile":3344 } ,
+          { "username" : "vars" , "password" : "vars@12" , "mobile":5566 } 
+    ]
+}
